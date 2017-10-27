@@ -1,0 +1,30 @@
+**********************************************************************************************************************************************************************************************                                                                               man my_ls                                                                                                      **********************************************************************************************************************************************************************************************
+
+=>WELCOME to the man of my_ls<=			
+
+NAME
+       my_ls - list directory contents
+
+SYNOPSIS
+
+       my_ls [OPTION]...
+
+DESCRIPTION
+
+       Mandatory arguments to long options are mandatory for short options too.
+
+       -i, -images
+              Displays your images in all formats.
+
+       -v, -videos
+              Displays your videos of all formats.
+
+       -php
+              Displays your files in php format.
+
+       -txt
+              Displays your txt files.
+
+       -a
+              Displays your hidden files.
+
